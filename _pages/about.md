@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![image-left](/assets/images/bio-mark-small.jpg){: .align-left} Hi there! I’m Mark Blokpoel, and I am an assistant professor in the [School of Artificial Intelligence](https://www.ru.nl/ai/) at the [Radboud University](https://www.ru.nl/) and member of the [Computational Cognitive Science](http://www.dcc.ru.nl/ccs/) group at the [Donders Institute](https://www.ru.nl/donders/). I am a *theoretical cognitive scientist* and I have a background in computer science and artificial intelligence. I develop *computational explanations* of *human communication and interaction*. I also develop theoretic methods such as formal analysis and *simulation analysis* to explore computational properties of theories.
