@@ -58,7 +58,7 @@ plugins:
 
 # Additional scripts
 head_scripts:
-  - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
+  - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js # altmetric
 
 author:
   name   : "Mark Blokpoel"
