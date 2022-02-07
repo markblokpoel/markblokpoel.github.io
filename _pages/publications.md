@@ -2,11 +2,9 @@
 title: "Publications"
 layout: single
 permalink: /publications
-date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/banner-canada.jpg
-intro:
-  - excerpt: ''
+  overlay_image: /assets/images/pexels-miguel-3785929.jpg
+  caption: "Image: [Miguel Á. Padriñán](https://www.pexels.com/@padrinan?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
 ---
 
 {% include feature_row id="intro" type="center" %}
