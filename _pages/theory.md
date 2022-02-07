@@ -1,7 +1,7 @@
 ---
 title: "Methodology for theory"
 layout: single
-permalink: /theory
+permalink: /theory/
 header:
   overlay_image: /assets/images/pexels-eliza-craciunescu-4058026.jpg
   caption: "Image: [Eliza Craciunescu](https://www.pexels.com/@eliza-craciunescu-2243791?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"

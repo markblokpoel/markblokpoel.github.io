@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 layout: single
-permalink: /talks
+permalink: /talks/
 header:
   overlay_image: /assets/images/pexels-miguel-3785929.jpg
   caption: "Image: [Miguel Á. Padriñán](https://www.pexels.com/@padrinan?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"

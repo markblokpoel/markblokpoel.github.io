@@ -1,7 +1,7 @@
 ---
 title: "Simulation framework"
 layout: single
-permalink: /simulation
+permalink: /simulation/
 header:
   overlay_image: /assets/images/pexels-cottonbro-5473956.jpg
   caption: "Image: [cottonbro](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"

@@ -1,7 +1,7 @@
 ---
 title: "Inference in communication"
 layout: single
-permalink: /communication
+permalink: /communication/
 header:
   overlay_image: assets/images/pexels-fauxels-3182765.jpg
   caption: "Image: [fauxels](https://www.pexels.com/@fauxels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
