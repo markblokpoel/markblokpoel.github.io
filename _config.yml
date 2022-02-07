@@ -19,6 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mark Blokpoel's website.
 twitter_username: markblokpoel
 github_username: markblokpoel
+
+
+url: https://markblokpoel.com
+baseurl: /
+repository: markblokpoel/markblokpoel.github.io
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 breadcrumbs: true
@@ -54,6 +59,13 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-include-cache
 
 # Additional scripts
