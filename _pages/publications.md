@@ -9,6 +9,8 @@ header:
 
 {% include feature_row id="intro" type="center" %}
 
+If you cannot access a publication, please email me and I’ll send you a copy.
+
 # Journal publications
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/tops.12506" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
@@ -67,9 +69,11 @@ van Rooij, I., Kwisthout, J., Blokpoel, M., Szymanik, J., Wareham, T., & Toni, I
 
 # Books
 
+Blokpoel, M. & van Rooij, I. (2021). [Theoretical modeling for cognitive science and psychology](https://computationalcognitivescience.github.io/lovelace/).
+
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1017/9781107358331" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
 
-van Rooij, I., Blokpoel, M., Kwisthout, J., Wareham, T. (2019). Intractability and Cognition: A guide to classical and parameterized complexity analysis. Cambridge: Cambridge University Press. (URL)
+van Rooij, I., Blokpoel, M., Kwisthout, J., Wareham, T. (2019). [Intractability and Cognition: A guide to classical and parameterized complexity analysis.](https://cognitionandintractability.wordpress.com/) Cambridge: Cambridge University Press.
 
 Stolk, A., Blokpoel, M., van Rooij, I., & Toni, I. (2015). On the generation of shared symbols. In R. Willems (Ed.), Cognitive Neuroscience of Natural Language Use. Cambridge University Press.
 

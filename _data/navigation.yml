@@ -9,6 +9,8 @@ main:
     url: /simulation
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
 #  - title: "Talks"
 #    url: /talks
   # - title: "Posts"
