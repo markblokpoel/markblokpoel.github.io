@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: single
-permalink: /about
+permalink: /about/
 header:
   overlay_image: /assets/images/pexels-adrien-olichon-2387532.jpg
   caption: "Image: [Adrien Olichon](https://www.pexels.com/@adrien-olichon-1257089?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
