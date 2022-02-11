@@ -7,6 +7,8 @@ header:
   caption: "Image: [fauxels](https://www.pexels.com/@fauxels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
 ---
 
+![image-left](/assets/images/account-hard-hat.png){: .align-left style="height: 2rem;"} <span style="line-height: 2rem;">**This page is under construction.**</span>
+
 # Selected publications
 
 van de Braak, L., Dingemanse, M., Toni, I., van Rooij, I. & Blokpoel, M. (2021) Computational challenges in explaining communication: How deep the rabbit hole goes. In Proceedings of the 43th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.

@@ -3,11 +3,11 @@ title: "Mark Blokpoel"
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/pexels-miguel-3785929.jpg
-  caption: "Image: [Miguel Á. Padriñán](https://www.pexels.com/@padrinan?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
-excerpt: "Assistant professor in the [School of Artificial Intelligence](https://www.ru.nl/courseguides/socsci/bachelor/artificial-intelligence/ai-department/who-we/) at the [Radboud University](https://www.ru.nl/) and member of the [Computational Cognitive Science](http://www.dcc.ru.nl/ccs/) group at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/)."
+  overlay_image: /assets/images/pexels-adrien-olichon-2387532.jpg
+  caption: "Image: [Adrien Olichon](https://www.pexels.com/@adrien-olichon-1257089?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
+excerpt: "My research advances computational explanation of cognition by developing **computational models of inference in human communication**, and by advancing **methodology for theory building and analysis**."
 intro:
-  - excerpt: 'My research focus is to advance computational explanation of cognition. I do so in two ways: (1) By developing **computational models of inference in human communication**, and (2) by advancing **methodology for theory building and analysis**. <br/> <span style="font-size: 2em;">This site is under construction..</span>'
+  - excerpt: "I am an assistant professor in the [School of Artificial Intelligence](https://www.ru.nl/courseguides/socsci/bachelor/artificial-intelligence/ai-department/who-we/) at the [Radboud University](https://www.ru.nl/) and member of the [Computational Cognitive Science](http://www.dcc.ru.nl/ccs/) group at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/).<br/><br/>[About me](/about/){: .btn .btn--primary }"
 feature_row:
   - image_path: assets/images/pexels-fauxels-3182765.jpg
     image_caption: "Image: [fauxels](https://www.pexels.com/@fauxels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/pexels-eliza-craciunescu-4058026.jpg
     image_caption: "Image: [Eliza Craciunescu](https://www.pexels.com/@eliza-craciunescu-2243791?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
     title: "Methodology for theory"
-    excerpt: "Advancing computational explanation requires rigorous methodology. Mathematical, formal tools, critical reflection and analyses are necessary. Making these available to everyone in our discipline, regardless of their background, is essential. "
+    excerpt: "Advancing computational explanation requires rigorous methodology. Mathematical, formal tools, critical reflection and analyses are necessary. Making these available to everyone in our discipline, regardless of their background, is essential."
     url: "/theory"
     btn_label: "Read More"
     btn_class: "btn--primary"

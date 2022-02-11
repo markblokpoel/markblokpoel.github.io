@@ -24,9 +24,8 @@ github_username: markblokpoel
 url: https://markblokpoel.com
 baseurl: /
 repository: markblokpoel/markblokpoel.github.io
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
-breadcrumbs: true
+minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: false
 
 # Build settings
 markdown: kramdown

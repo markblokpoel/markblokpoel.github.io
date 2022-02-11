@@ -7,6 +7,8 @@ header:
   caption: "Image: [Eliza Craciunescu](https://www.pexels.com/@eliza-craciunescu-2243791?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
 ---
 
+![image-left](/assets/images/account-hard-hat.png){: .align-left style="height: 2rem;"} <span style="line-height: 2rem;">**This page is under construction.**</span>
+
 # Selected publications
 
 Blokpoel, M. & van Rooij, I. (2021). [Theoretical modeling for cognitive science and psychology](https://computationalcognitivescience.github.io/lovelace/).

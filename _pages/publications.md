@@ -3,8 +3,10 @@ title: "Publications"
 layout: single
 permalink: /publications/
 header:
-  overlay_image: /assets/images/pexels-miguel-3785929.jpg
-  caption: "Image: [Miguel Á. Padriñán](https://www.pexels.com/@padrinan?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
+  overlay_image: /assets/images/pexels-adrien-olichon-2387532.jpg
+  caption: "Image: [Adrien Olichon](https://www.pexels.com/@adrien-olichon-1257089?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
+toc: true
+toc_sticky: true
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -53,7 +55,7 @@ Stolk, A., Verhagen, L., Schoffelen, J., Oostenveld, R., Blokpoel, M., Hagoort, 
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jmp.2013.05.006" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
 
-Blokpoel, M., Kwisthout, J., van der Weide, Theo P., Wareham, T., & van Rooij, I. (2013). A computational-level explanation of the speed of goal inference. Journal of Mathematical Psychology, 570(3-4), 117-133. (URL)
+Blokpoel, M., Kwisthout, J., van der Weide, Theo P., Wareham, T., & van Rooij, I. (2013). A computational-level explanation of the speed of goal inference. Journal of Mathematical Psychology, 570(3-4), 117-133.
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpsyg.2012.00406" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
 
@@ -61,11 +63,11 @@ Blokpoel, M., Kwisthout, J., & van Rooij, I. (2012) When can predictive brains b
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fnhum.2012.00253" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
 
-Blokpoel, M., van Kesteren, M., Stolk, A., Haselager, P., Toni, I., & van Rooij, I. (2012). Recipient design in human communication: Simple heuristics or perspective taking? Frontiers in Human Neuroscience, 6(253), 1-13. (PDF)
+Blokpoel, M., van Kesteren, M., Stolk, A., Haselager, P., Toni, I., & van Rooij, I. (2012). Recipient design in human communication: Simple heuristics or perspective taking? Frontiers in Human Neuroscience, 6(253), 1-13.
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fnhum.2011.00052 " data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed" style="float: right;"></div>
 
-van Rooij, I., Kwisthout, J., Blokpoel, M., Szymanik, J., Wareham, T., & Toni, I. (2011). Intentional communication: Computationally easy or difficult? Frontiers in Human Neuroscience, 5(52), 1-18. (PDF)
+van Rooij, I., Kwisthout, J., Blokpoel, M., Szymanik, J., Wareham, T., & Toni, I. (2011). Intentional communication: Computationally easy or difficult? Frontiers in Human Neuroscience, 5(52), 1-18.
 
 # Books
 
@@ -91,7 +93,7 @@ Zeppi, A., & Blokpoel, M. (2017). Does mindshaping makes mindreading tractable?
 
 Blokpoel, M., Kwisthout, J., Wareham, T., Haselager, P., Toni, I., & van Rooij, I. (2011). The computational costs of recipient design and intention recognition in communication. In Proceedings of the 33rd Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 
-Blokpoel, M., Kwisthout, J., van der Weide, T., & van Rooij, I. (2010). How Action Understanding can be rational, Bayesian and tractable. In S. Ohlsson & R. Catrambone (Eds.), In Proceedings of the 32nd Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society. (PDF and supplement)
+Blokpoel, M., Kwisthout, J., van der Weide, T., & van Rooij, I. (2010). How Action Understanding can be rational, Bayesian and tractable. In S. Ohlsson & R. Catrambone (Eds.), In Proceedings of the 32nd Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 
 Blokpoel, M., Grootjen, F. A., & van den Broek, E. L. (2008). Exploiting coarse grained parallelism in conceptual data mining. In Proceedings of the Dutch Information Retrieval Conference, Maastricht.
 
