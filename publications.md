@@ -12,6 +12,9 @@ If you cannot access a publication, please email me and I’ll send you a copy.
 
 [<i class="fa fa-file-pdf"></i>](https://www.theoj.org/joss-papers/joss.06049/10.21105.joss.06049.pdf)  Blokpoel, M., (2024). mathlib: A Scala package for readable, verifiable and sustainable simulations of formal theory. *Journal of Open Source Software, 9*(99), 6049, [10.21105/joss.06049](https://doi.org/10.21105/joss.06049).
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuroimage.2022.119734" data-hide-no-mentions="true" data-hide-less-than="3" class="altmetric-embed" style="float: right;"></div>
+
+[<i class="fa fa-file-pdf"></i>](https://www.sciencedirect.com/science/article/pii/S1053811922008552/pdfft?md5=a905efe88bc0e368c4b087143def2cb0&pid=1-s2.0-S1053811922008552-main.pdf) Eijk, L.D., Rasenberg, M., Arnese, F., Blokpoel, M., Dingemanse, M., Döller, C.F.A., Ernestus, M.T.C., Holler, J.A.M., Milivojevic, B., Özyürek, A., Pouw, W., Rooij, I.J.E.I. van, Schriefers, H.J., Toni, I., Trujillo, J.P. & Bögels, S. (2022). The CABB dataset: A multimodal corpus of communicative interactions for behavioural and neural analyses. *NeuroImage, 264*:119734. doi: 10.1016/j.neuroimage.2022.119734
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/tops.12506" data-hide-no-mentions="true" data-hide-less-than="3" class="altmetric-embed" style="float: right;"></div>
 
