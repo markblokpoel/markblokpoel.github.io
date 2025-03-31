@@ -9,7 +9,6 @@ If you are interested in supervision or mentoring, please feel free to [contact 
 #### PhD candidates
 
 - Laura van de Braak (current)
-- Alessia Giulimondi (current)
 
 #### Master thesis
 
